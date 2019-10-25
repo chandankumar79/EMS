@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMS_UI", "EMS_UI\EMS_UI.csproj", "{C5C88B38-368D-419F-9EE6-82A84F770BCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMS_DAL", "EMS_DAL\EMS_DAL.csproj", "{2F6D30B9-1F92-4F63-8CEE-F3AF8466EB48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureApp", "WebApplication1\SecureApp.csproj", "{AAFE5192-3839-45CB-AC6E-388261526975}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5C88B38-368D-419F-9EE6-82A84F770BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5C88B38-368D-419F-9EE6-82A84F770BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5C88B38-368D-419F-9EE6-82A84F770BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5C88B38-368D-419F-9EE6-82A84F770BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F6D30B9-1F92-4F63-8CEE-F3AF8466EB48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F6D30B9-1F92-4F63-8CEE-F3AF8466EB48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F6D30B9-1F92-4F63-8CEE-F3AF8466EB48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F6D30B9-1F92-4F63-8CEE-F3AF8466EB48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAFE5192-3839-45CB-AC6E-388261526975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAFE5192-3839-45CB-AC6E-388261526975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAFE5192-3839-45CB-AC6E-388261526975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAFE5192-3839-45CB-AC6E-388261526975}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D7AF2EC-79D7-4089-B223-3EBC395D0A8C}
+	EndGlobalSection
+EndGlobal
